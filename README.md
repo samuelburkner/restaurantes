@@ -77,7 +77,6 @@
     <p class="info">📞 (41) 3462-1314</p>
     <p class="info">🍽️ Brasileira, Frutos do mar</p>
   </div>
-
   <div class="card">
     <h2>Restaurante Madalozo</h2>
     <p class="info">⭐ 4,2 (1.272 avaliações)</p>
